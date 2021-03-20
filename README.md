@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 ts, js, c#, c++ it's all bot about me 🌱
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arteandr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
