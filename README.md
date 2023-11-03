@@ -9,8 +9,8 @@ I am currently studying and working on software development 🌱
 - 🧑‍💻 I'm working with **JavaScript/TypeScript** and **GoLang**.
 - 🚀 I have worked with Node.js frameworks like **Nest.js and Express.js** and **gin** in **Go**.
 - 📚 I'm currently diving deep into **C/C++**.
-- 👯 I’m looking to collaborate on projects which are using or are looking to use **JavaScript** or **Go**.
-- 💬 My hobbies besides development: playing the guitar, a little physics, hating **python**.
+- 👯 I’m looking for collaboration on projects which are using or planning on the use of **JavaScript** or **Go**.
+- 💬 My hobbies besides development: playing the guitar, a bit of physics, hating **python**.
 
 Thanks for stopping by, and feel free to contact me if you have any questions. Let's create something extraordinary together.
 
