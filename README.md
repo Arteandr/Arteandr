@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arteandr</h1>
-I am currently studying and working on software development 🌱
+I am currently working as a backend developer at iPNOTE 🚀
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
